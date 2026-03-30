@@ -12,6 +12,7 @@ I architect and build **commercial-grade, full-stack software systems** with a r
 
 ### 🧠 Recent AI & SaaS Projects
 
+- **MCP DateDecoder** – converts fuzzy language like “next Friday” or “tomorrow” into precise ISO timestamps. Plug-and-play easy MCP.
 - **Blast-Me.com** – SaaS platform for AI-generated, images, scripts, videos with captions. Includes scheduled posting to social media.
 - **WizardsDashboard.com** - Self-hosted data-driven Data Analytics Dashboards
 - **TechWizard.win** - AI voice/text assistants, and workflow automation for diverse industries.
@@ -53,6 +54,7 @@ I architect and build **commercial-grade, full-stack software systems** with a r
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [MCP DateDecoder](https://wizardstoolkit.com/date-decoder.php) | easy integration for date resolution for AI with 100% accuracy | MCP, Python, Cloudflare |
 | [AI Phone Answering Assistant](https://techwizard.win/ai-services.php) | Voice AI receptionist with live scheduling, call routing, and multi-channel alerts. | ElevenLabs, Deepgram, n8n, Stripe |
 | [Wizard’s Dashboard](https://wizardsdashboard.com/) | Self-hosted real-time KPI platform with custom SQL-driven visualizations. | PHP, MySQL, Tailwind, ChartJS |
 | [IntelliMuse](https://intellimuse.app) | Personalized AI assistant platform with voice, persona, and multilingual support. | OpenAI, React, Google TTS, Stripe |
