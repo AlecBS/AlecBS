@@ -31,7 +31,11 @@ I architect and build **commercial-grade, full-stack software systems** with a r
 - **Frameworks:** Next.js, React, Node.js, MaterializeCSS, Tailwind CSS, Bootstrap, Zend/Laminas
 - **AI & Cloud APIs:** OpenAI, DeepSeek, Replicate, Google TTS/STT, Deepgram, Twilio, Stripe
 - **Databases:** MySQL, PostgreSQL, SQL Server, Supabase
-- **DevOps & Hosting:** AWS, GCP, DigitalOcean, Docker, CI/CD, Vercel, Cloudflare
+- **DevOps & Hosting:** GCP, AWS, DigitalOcean, Docker, CI/CD, Vercel, Cloudflare
+
+### **Mobile Development**
+- **Languages:** Dart
+- **Frameworks:** Flutter
 
 ### **Specialties**
 - Low-code rapid development & modular architecture
